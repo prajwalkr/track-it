@@ -13,6 +13,10 @@
     2. BeautifulSoup
     3. Selenium (only for a couple of courier companies)
     4. python-dateutil
+    
+To install them run: 
+    
+    pip install -r requirements.txt
 
 > This was a portion of my work during my internship.
 > I have open sourced it, so that it could be of any help to anyone on the web :)
