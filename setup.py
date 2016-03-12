@@ -1,7 +1,7 @@
 from distutils.core import setup
 setup(
-  name = 'track-it',
-  packages = ['track-it'], # this must be the same as the name above
+  name = 'trackit',
+  packages = ['trackit'], # this must be the same as the name above
   version = '0.1',
   description = 'Tracking APIs for couriers with major courier companies',
   author = 'K R Prajwal',
