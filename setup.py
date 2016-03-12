@@ -8,6 +8,6 @@ setup(
   author_email = 'prajwalrenukanand@gmail.com',
   url = 'https://github.com/prajwalkr/track-it', # use the URL to the github repo
   download_url = 'https://github.com/prajwalkr/track-it/tarball/0.1', # I'll explain this in a second
-  keywords = ['testing', 'logging', 'example'], # arbitrary keywords
+  keywords = ['couriers', 'tracking', 'api', 'courier-tracking'], # arbitrary keywords
   classifiers = [],
 )
