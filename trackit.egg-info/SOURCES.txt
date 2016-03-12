@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+trackit/__init__.py
+trackit/trackers.py
+trackit.egg-info/PKG-INFO
+trackit.egg-info/SOURCES.txt
+trackit.egg-info/dependency_links.txt
+trackit.egg-info/requires.txt
+trackit.egg-info/top_level.txt

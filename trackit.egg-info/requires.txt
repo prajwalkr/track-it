@@ -1,0 +1,4 @@
+beautifulsoup4==4.4.1
+selenium==2.48.0
+requests==2.2.1
+python-dateutil==2.4.2

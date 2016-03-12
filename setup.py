@@ -3,12 +3,12 @@ from setuptools import setup
 setup(
   name = 'trackit',
   packages = ['trackit'],
-  version = '0.1',
+  version = '0.2',
   description = 'Tracking APIs for couriers with major courier companies',
   author = 'K R Prajwal',
   author_email = 'prajwalrenukanand@gmail.com',
   url = 'https://github.com/prajwalkr/track-it', 
-  download_url = 'https://github.com/prajwalkr/track-it/tarball/0.1', 
+  download_url = 'https://github.com/prajwalkr/trackit/tarball/0.2', 
   keywords = ['couriers', 'tracking', 'api', 'courier-tracking'], 
   classifiers = [],
   install_requires=[
