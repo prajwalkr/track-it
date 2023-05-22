@@ -14,7 +14,7 @@ setup(
   install_requires=[
       "beautifulsoup4==4.4.1",
       "selenium==2.48.0",
-      "requests==2.20.0",
+      "requests==2.31.0",
       "python-dateutil==2.4.2",
   ]
 )
